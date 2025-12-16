@@ -11,10 +11,14 @@
             "id": "627188e755182d03",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "英语/自然拼读规则.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "自然拼读规则"
             }
           }
         ]
@@ -168,6 +172,9 @@
   },
   "active": "627188e755182d03",
   "lastOpenFiles": [
+    "未命名.md",
+    "英语/自然拼读规则.md",
+    "英语",
     "每日日记/assets/2025-11-20/file-20251121133226245.png",
     "修心-感悟/心理学.md",
     "修心-感悟/阳明心学.md",
@@ -190,7 +197,6 @@
     "/每日日记",
     "/修心-感悟",
     "/assets/test",
-    "/assets",
     "/test.md"
   ]
 }
