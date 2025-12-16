@@ -11,14 +11,10 @@
             "id": "627188e755182d03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
+              "title": "新标签页"
             }
           }
         ]
@@ -159,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -170,5 +167,30 @@
     }
   },
   "active": "627188e755182d03",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "每日日记/assets/2025-11-20/file-20251121133226245.png",
+    "修心-感悟/心理学.md",
+    "修心-感悟/阳明心学.md",
+    "每日日记/2025-11-20.md",
+    "修心-感悟/曾国藩.md",
+    "修心-感悟/水清鱼读月，山静鸟谈天。.md",
+    "test.md",
+    "/每日日记/assets/2025-11-20/file-20251121133226245.png",
+    "/每日日记/2025-11-20.md",
+    "/修心-感悟/阳明心学.md",
+    "/修心-感悟/水清鱼读月，山静鸟谈天。.md",
+    "/修心-感悟/曾国藩.md",
+    "/修心-感悟/心理学.md",
+    "修心-感悟",
+    "每日日记/assets/2025-11-20",
+    "每日日记/assets",
+    "每日日记",
+    "/每日日记/assets/2025-11-20",
+    "/每日日记/assets",
+    "/每日日记",
+    "/修心-感悟",
+    "/assets/test",
+    "/assets",
+    "/test.md"
+  ]
 }
