@@ -14,5 +14,23 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "automatic-table-of-contents:insert-automatic-table-of-contents": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "0"
+    }
   ]
 }
