@@ -1,0 +1,1683 @@
+{
+  "general": {
+    "currency": "USD",
+    "displayName": "",
+    "homeStartupBehavior": "always",
+    "onboardingCompleted": false,
+    "journalFolderPath": ""
+  },
+  "display": {
+    "privacyMode": false,
+    "privacyMask": "***"
+  },
+  "trade": {
+    "autoOpenCreatedTrades": true,
+    "dateFormat": "DDMMYY",
+    "use24HourTime": false,
+    "skipWeekends": true,
+    "weekStartDay": "monday",
+    "useDirectPnLInput": true,
+    "useDollarValueInput": false,
+    "maeMfeInputMode": "dollar",
+    "maeMfeDisplayUnit": "dollar",
+    "tradingDayCutoffTime": "23:59",
+    "tradingDayCutoffEndOfDayMigrationVersion": "2026-05-end-of-day-cutoff-v1",
+    "breakEvenRangeMin": 0,
+    "breakEvenRangeMax": 0,
+    "breakEvenThresholdMode": "fixed",
+    "breakEvenThresholdPercent": 0.05,
+    "includeMissedTradesInCalculations": false,
+    "includeUnrealizedPnLInCalculations": false,
+    "defaultRiskAmount": 0,
+    "displayRMultiples": false,
+    "includeCopyAccountsInAllAccountsAnalytics": false,
+    "analyticsDateBasis": "entry",
+    "tradeFormLayout": {
+      "inputMode": "prices",
+      "assetTypeMode": "show",
+      "defaultAssetType": "stock",
+      "itemOrder": [
+        "assetSpecific",
+        "tradingCosts",
+        "tradingCostRebate",
+        "tradingCostSwap",
+        "tradingCostFees",
+        "riskPlanning",
+        "takeProfits",
+        "idealExits",
+        "unrealizedSnapshot",
+        "dividends",
+        "maeMfe",
+        "tradeCurrency",
+        "pnlPreview",
+        "importShortcut",
+        "setup",
+        "mistake",
+        "customTags",
+        "thesis",
+        "attachments",
+        "customFields"
+      ],
+      "visibleItems": [
+        "assetSpecific",
+        "riskPlanning",
+        "pnlPreview",
+        "importShortcut",
+        "setup",
+        "mistake",
+        "customTags",
+        "thesis",
+        "attachments",
+        "customFields"
+      ],
+      "showManualFxRate": false
+    },
+    "galleryFolders": [],
+    "canonicalExecutionMigrationVersion": "2026-05-canonical-execution-v2",
+    "tradeReviewMarkdownMigrationVersion": "2026-07-trade-review-markdown-v1",
+    "tradeReviewLayoutMigrationVersion": "2026-07-trade-review-layout-v2",
+    "graphLinkMigrationVersion": "2026-07-native-graph-links-v1"
+  },
+  "reviewV2": {
+    "customWidgetTypes": [],
+    "templates": [
+      {
+        "id": "journalit-migrated-trade-review-drc-v1",
+        "name": "Standard DRC (Migrated Trade Review)",
+        "type": "drc",
+        "version": 1,
+        "createdAt": "2026-08-10T16:26:48.559Z",
+        "updatedAt": "2026-08-10T16:26:48.559Z",
+        "isBuiltIn": false,
+        "widgets": [
+          {
+            "type": "header",
+            "locked": true
+          },
+          {
+            "type": "goals",
+            "config": {
+              "style": "checkbox"
+            }
+          },
+          {
+            "type": "checklist"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 2,
+              "text": "预测"
+            }
+          },
+          {
+            "type": "images",
+            "id": "forecast-images"
+          },
+          {
+            "type": "markdown-zone",
+            "id": "forecast-notes"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 2,
+              "text": "表现"
+            }
+          },
+          {
+            "type": "pnl-chart"
+          },
+          {
+            "type": "drawdown-chart"
+          },
+          {
+            "type": "stats"
+          },
+          {
+            "type": "trades"
+          },
+          {
+            "type": "trade-review",
+            "config": {
+              "winQuestions": [
+                {
+                  "id": "win-what-worked",
+                  "label": "What worked?",
+                  "placeholder": "What aspects of your strategy or execution led to this win?"
+                },
+                {
+                  "id": "win-repeatable",
+                  "label": "Is this repeatable?",
+                  "placeholder": "Can you consistently replicate what made this trade successful?"
+                }
+              ],
+              "lossQuestions": [
+                {
+                  "id": "loss-what-went-wrong",
+                  "label": "What went wrong?",
+                  "placeholder": "What caused this loss? Was it execution, analysis, or market conditions?"
+                },
+                {
+                  "id": "loss-avoid-next-time",
+                  "label": "How to avoid next time?",
+                  "placeholder": "What specific changes will you make to prevent this type of loss?"
+                },
+                {
+                  "id": "loss-key-lesson",
+                  "label": "Key Lesson",
+                  "placeholder": "What is the main takeaway from this loss?"
+                }
+              ],
+              "breakevenQuestions": [
+                {
+                  "id": "win-what-worked",
+                  "label": "What worked?",
+                  "placeholder": "What aspects of your strategy or execution led to this win?"
+                },
+                {
+                  "id": "win-repeatable",
+                  "label": "Is this repeatable?",
+                  "placeholder": "Can you consistently replicate what made this trade successful?"
+                }
+              ]
+            }
+          },
+          {
+            "type": "markdown-zone",
+            "id": "trade-notes"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 2,
+              "text": "复盘"
+            }
+          },
+          {
+            "type": "review"
+          },
+          {
+            "type": "missed-trades"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 3,
+              "text": "今天我做得好的是什么?"
+            }
+          },
+          {
+            "type": "markdown-zone",
+            "id": "review-q1"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 3,
+              "text": "我可以改进什么?"
+            }
+          },
+          {
+            "type": "markdown-zone",
+            "id": "review-q2"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 3,
+              "text": "下一次交易时我将专注于什么?"
+            }
+          },
+          {
+            "type": "markdown-zone",
+            "id": "review-q3"
+          },
+          {
+            "type": "images",
+            "id": "eod-images"
+          },
+          {
+            "type": "mark-reviewed"
+          }
+        ]
+      },
+      {
+        "id": "1658192b-7954-4e64-a9b3-cdba593bb770",
+        "name": "Standard DRC (副本)",
+        "type": "drc",
+        "version": 1,
+        "createdAt": "2026-08-10T16:34:55.750Z",
+        "updatedAt": "2026-08-10T16:34:55.750Z",
+        "isBuiltIn": false,
+        "widgets": [
+          {
+            "type": "header",
+            "locked": true
+          },
+          {
+            "type": "goals",
+            "config": {
+              "style": "checkbox"
+            }
+          },
+          {
+            "type": "checklist"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 2,
+              "text": "预测"
+            }
+          },
+          {
+            "type": "images",
+            "id": "forecast-images"
+          },
+          {
+            "type": "markdown-zone",
+            "id": "forecast-notes"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 2,
+              "text": "表现"
+            }
+          },
+          {
+            "type": "pnl-chart"
+          },
+          {
+            "type": "drawdown-chart"
+          },
+          {
+            "type": "stats"
+          },
+          {
+            "type": "trades"
+          },
+          {
+            "type": "trade-review"
+          },
+          {
+            "type": "markdown-zone",
+            "id": "trade-notes"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 2,
+              "text": "复盘"
+            }
+          },
+          {
+            "type": "review"
+          },
+          {
+            "type": "missed-trades"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 3,
+              "text": "今天我做得好的是什么?"
+            }
+          },
+          {
+            "type": "markdown-zone",
+            "id": "review-q1"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 3,
+              "text": "我可以改进什么?"
+            }
+          },
+          {
+            "type": "markdown-zone",
+            "id": "review-q2"
+          },
+          {
+            "type": "markdown-header",
+            "config": {
+              "level": 3,
+              "text": "下一次交易时我将专注于什么?"
+            }
+          },
+          {
+            "type": "markdown-zone",
+            "id": "review-q3"
+          },
+          {
+            "type": "images",
+            "id": "eod-images"
+          },
+          {
+            "type": "mark-reviewed"
+          }
+        ]
+      }
+    ],
+    "tradeTemplates": []
+  },
+  "templates": {
+    "defaultTrade": "builtin-trade-standard",
+    "defaultDrc": "journalit-migrated-trade-review-drc-v1",
+    "defaultWeekly": "builtin-weekly-standard",
+    "defaultMonthly": "builtin-monthly-standard",
+    "defaultQuarterly": "builtin-quarterly-standard",
+    "defaultYearly": "builtin-yearly-standard"
+  },
+  "reviews": {
+    "globalAutoCreate": true
+  },
+  "uiCustomization": {},
+  "customOptions": {
+    "instrument": [
+      {
+        "name": "AAPL",
+        "assetType": "stock"
+      },
+      {
+        "name": "MSFT",
+        "assetType": "stock"
+      },
+      {
+        "name": "TSLA",
+        "assetType": "stock"
+      },
+      {
+        "name": "ES1",
+        "assetType": "futures",
+        "futuresData": {
+          "dollarPerPoint": 50,
+          "tickSize": 0.25,
+          "tickValue": 12.5
+        }
+      },
+      {
+        "name": "NQ1",
+        "assetType": "futures",
+        "futuresData": {
+          "dollarPerPoint": 20,
+          "tickSize": 0.25,
+          "tickValue": 5
+        }
+      },
+      {
+        "name": "EURUSD",
+        "assetType": "forex"
+      }
+    ],
+    "account": [],
+    "account_type": [],
+    "setup": [],
+    "mistake": [],
+    "tag": [],
+    "event": [
+      {
+        "name": "FOMC Meeting",
+        "color": "gray"
+      },
+      {
+        "name": "Earnings Announcement",
+        "color": "gray"
+      },
+      {
+        "name": "Economic Data Release",
+        "color": "gray"
+      },
+      {
+        "name": "Fed Speech",
+        "color": "gray"
+      },
+      {
+        "name": "Market Holiday",
+        "color": "gray"
+      }
+    ],
+    "tagColors": {}
+  },
+  "customTradeFields": {
+    "fields": []
+  },
+  "customFieldOptions": {},
+  "customReviewFields": {
+    "groups": [],
+    "fields": []
+  },
+  "customReviewFieldOptions": {},
+  "weekly": {
+    "reviewQuestions": [
+      "What worked well this week?",
+      "What didn't work this week?",
+      "Which setups were most profitable?",
+      "What mistakes cost me the most money?",
+      "What could I improve for next week?"
+    ],
+    "customTimeframes": [
+      "Monthly",
+      "Weekly",
+      "Daily"
+    ],
+    "recurringGoals": [],
+    "checklistItems": [
+      "Check ForexFactory news",
+      "Build weekly plan",
+      "Prepare HTF narrative"
+    ],
+    "autoCreateOnFirstTrade": true,
+    "autoCreateWeeklyReviewOnNavigation": true
+  },
+  "monthly": {
+    "reviewQuestions": [
+      "What were the key lessons from this month?",
+      "Which strategies performed best?",
+      "What patterns do I notice in my trading?",
+      "What are my goals for next month?",
+      "How can I improve my risk management?"
+    ],
+    "customTimeframes": [
+      "Quarterly",
+      "Monthly",
+      "Weekly"
+    ],
+    "autoCreateOnFirstTrade": true,
+    "autoCreateMonthlyReviewOnNavigation": true
+  },
+  "quarterly": {
+    "reviewQuestions": [
+      "What were the major wins and losses this quarter?",
+      "Which trading strategies performed best over the quarter?",
+      "What market conditions did I handle well or poorly?",
+      "What are my goals for next quarter?",
+      "How has my trading evolved compared to previous quarters?"
+    ],
+    "customTimeframes": [
+      "Yearly",
+      "Quarterly",
+      "Monthly"
+    ],
+    "autoCreateOnFirstTrade": true,
+    "autoCreateQuarterlyReviewOnNavigation": true
+  },
+  "yearly": {
+    "reviewQuestions": [
+      "What were my biggest wins and losses this year?",
+      "Which trading strategies performed best over the year?",
+      "How did I handle different market conditions throughout the year?",
+      "What are my goals for next year?",
+      "How has my trading evolved compared to previous years?",
+      "What key lessons did I learn this year?"
+    ],
+    "customTimeframes": [
+      "Yearly",
+      "Quarterly",
+      "Monthly"
+    ],
+    "autoCreateOnFirstTrade": true,
+    "autoCreateYearlyReviewOnNavigation": true
+  },
+  "drc": {
+    "checklistItems": [
+      "Review market conditions",
+      "Check economic calendar",
+      "Set risk limits for the day",
+      "Review previous day's trades"
+    ],
+    "reviewQuestions": [
+      "What did I do well today?",
+      "What could I improve on?",
+      "What will I focus on for the next session?"
+    ],
+    "customTimeframes": [
+      "Daily",
+      "4H",
+      "1H",
+      "30M"
+    ],
+    "recurringGoals": [],
+    "autoCreateOnFirstTrade": true,
+    "autoCreateDRCOnNavigation": true,
+    "sessionLogTags": [
+      {
+        "id": "analysis",
+        "label": "Analysis",
+        "shortLabel": "AN",
+        "color": "blue"
+      },
+      {
+        "id": "market",
+        "label": "Market",
+        "shortLabel": "MK",
+        "color": "purple"
+      },
+      {
+        "id": "trade",
+        "label": "Trade",
+        "shortLabel": "TR",
+        "color": "green"
+      },
+      {
+        "id": "psychology",
+        "label": "Psychology",
+        "shortLabel": "PSY",
+        "color": "pink"
+      },
+      {
+        "id": "lesson",
+        "label": "Lesson",
+        "shortLabel": "LSN",
+        "color": "amber",
+        "lessonTag": true
+      },
+      {
+        "id": "uncategorized",
+        "label": "Uncategorized",
+        "shortLabel": "?",
+        "color": "orange",
+        "requiresResolution": true
+      }
+    ],
+    "sessionLogAlertRule": {
+      "tagId": "psychology",
+      "minimumCount": 3,
+      "minimumPercentage": 40,
+      "enabled": true
+    }
+  },
+  "sessionMode": {
+    "sessionWindows": [],
+    "preparationLeadTimeMinutes": 30,
+    "showTradeExecutionsInSessionLog": true,
+    "linkedResources": [],
+    "tradeGateWorkflows": [
+      {
+        "id": "default-trade-gate-workflow",
+        "name": "Starter Trade Gate",
+        "startNodeId": "default-trade-gate-setup",
+        "nodes": [
+          {
+            "id": "default-trade-gate-setup",
+            "type": "question",
+            "title": "Setup quality",
+            "prompt": "Is there a clear, valid setup according to your plan?",
+            "options": [
+              {
+                "id": "default-trade-gate-setup-yes",
+                "label": "Yes",
+                "targetNodeId": "default-trade-gate-risk"
+              },
+              {
+                "id": "default-trade-gate-setup-no",
+                "label": "No",
+                "targetNodeId": "default-trade-gate-wait"
+              }
+            ]
+          },
+          {
+            "id": "default-trade-gate-risk",
+            "type": "question",
+            "title": "Risk defined",
+            "prompt": "Are entry, invalidation, target, and position risk defined?",
+            "options": [
+              {
+                "id": "default-trade-gate-risk-yes",
+                "label": "Yes",
+                "targetNodeId": "default-trade-gate-conditions"
+              },
+              {
+                "id": "default-trade-gate-risk-no",
+                "label": "No",
+                "targetNodeId": "default-trade-gate-no-trade"
+              }
+            ]
+          },
+          {
+            "id": "default-trade-gate-conditions",
+            "type": "question",
+            "title": "Conditions acceptable",
+            "prompt": "Are current volatility, news, and execution conditions acceptable?",
+            "options": [
+              {
+                "id": "default-trade-gate-conditions-yes",
+                "label": "Yes",
+                "targetNodeId": "default-trade-gate-green-light"
+              },
+              {
+                "id": "default-trade-gate-conditions-no",
+                "label": "No",
+                "targetNodeId": "default-trade-gate-wait"
+              }
+            ]
+          },
+          {
+            "id": "default-trade-gate-green-light",
+            "type": "outcome",
+            "outcome": "green-light",
+            "title": "Green light",
+            "description": "Plan is valid, risk is defined, and conditions support execution."
+          },
+          {
+            "id": "default-trade-gate-wait",
+            "type": "outcome",
+            "outcome": "wait",
+            "title": "Wait",
+            "description": "Conditions are not ready yet. Wait for confirmation before acting."
+          },
+          {
+            "id": "default-trade-gate-no-trade",
+            "type": "outcome",
+            "outcome": "no-trade",
+            "title": "No trade",
+            "description": "The setup or risk definition is not strong enough to take the trade."
+          }
+        ]
+      }
+    ],
+    "phaseLayouts": {
+      "preparation": [
+        "preparationResources",
+        "preparationGoals",
+        "preparationChecklist"
+      ],
+      "live": [
+        "tradeGate",
+        "timeline"
+      ],
+      "ended": [
+        "endedActions",
+        "endedStats"
+      ]
+    }
+  },
+  "dashboard": {
+    "layouts": {
+      "Default": {
+        "topSection": [
+          "netPnL",
+          "winRate",
+          "numTrades",
+          "maxDrawdown",
+          "profitFactor",
+          "sharpeRatio",
+          "expectancy",
+          "bestDay"
+        ],
+        "bottomSection": {
+          "lg": [
+            {
+              "i": "pnlChart",
+              "x": 0,
+              "y": 0,
+              "w": 6,
+              "h": 8
+            },
+            {
+              "i": "performanceCalendar",
+              "x": 6,
+              "y": 0,
+              "w": 4,
+              "h": 8
+            },
+            {
+              "i": "recentTrades",
+              "x": 10,
+              "y": 0,
+              "w": 2,
+              "h": 7
+            },
+            {
+              "i": "longPnLChart",
+              "x": 0,
+              "y": 8,
+              "w": 6,
+              "h": 8
+            },
+            {
+              "i": "shortPnLChart",
+              "x": 6,
+              "y": 8,
+              "w": 6,
+              "h": 8
+            }
+          ],
+          "md": [
+            {
+              "i": "pnlChart",
+              "x": 0,
+              "y": 0,
+              "w": 6,
+              "h": 6
+            },
+            {
+              "i": "performanceCalendar",
+              "x": 0,
+              "y": 6,
+              "w": 6,
+              "h": 3
+            },
+            {
+              "i": "recentTrades",
+              "x": 0,
+              "y": 9,
+              "w": 6,
+              "h": 3
+            },
+            {
+              "i": "longPnLChart",
+              "x": 0,
+              "y": 12,
+              "w": 6,
+              "h": 6
+            },
+            {
+              "i": "shortPnLChart",
+              "x": 0,
+              "y": 18,
+              "w": 6,
+              "h": 6
+            }
+          ],
+          "sm": [
+            {
+              "i": "pnlChart",
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 6
+            },
+            {
+              "i": "performanceCalendar",
+              "x": 0,
+              "y": 6,
+              "w": 2,
+              "h": 6
+            },
+            {
+              "i": "recentTrades",
+              "x": 2,
+              "y": 6,
+              "w": 2,
+              "h": 6
+            },
+            {
+              "i": "longPnLChart",
+              "x": 0,
+              "y": 12,
+              "w": 4,
+              "h": 6
+            },
+            {
+              "i": "shortPnLChart",
+              "x": 0,
+              "y": 18,
+              "w": 4,
+              "h": 6
+            }
+          ],
+          "xs": [
+            {
+              "i": "pnlChart",
+              "x": 0,
+              "y": 0,
+              "w": 2,
+              "h": 6
+            },
+            {
+              "i": "performanceCalendar",
+              "x": 0,
+              "y": 6,
+              "w": 1,
+              "h": 5
+            },
+            {
+              "i": "recentTrades",
+              "x": 1,
+              "y": 6,
+              "w": 1,
+              "h": 5
+            },
+            {
+              "i": "longPnLChart",
+              "x": 0,
+              "y": 11,
+              "w": 2,
+              "h": 6
+            },
+            {
+              "i": "shortPnLChart",
+              "x": 0,
+              "y": 17,
+              "w": 2,
+              "h": 6
+            }
+          ],
+          "xxs": [
+            {
+              "i": "pnlChart",
+              "x": 0,
+              "y": 0,
+              "w": 1,
+              "h": 6
+            },
+            {
+              "i": "performanceCalendar",
+              "x": 0,
+              "y": 6,
+              "w": 1,
+              "h": 6
+            },
+            {
+              "i": "recentTrades",
+              "x": 0,
+              "y": 12,
+              "w": 1,
+              "h": 4
+            },
+            {
+              "i": "longPnLChart",
+              "x": 0,
+              "y": 16,
+              "w": 1,
+              "h": 6
+            },
+            {
+              "i": "shortPnLChart",
+              "x": 0,
+              "y": 22,
+              "w": 1,
+              "h": 6
+            }
+          ]
+        }
+      }
+    },
+    "activeLayout": "Default",
+    "weekdayPerformanceMetric": "net",
+    "defaultFilters": {
+      "dateRange": [
+        null,
+        null
+      ],
+      "accounts": [],
+      "tickers": [],
+      "setups": [],
+      "tags": [],
+      "mistakes": [],
+      "tradeTypes": [],
+      "statuses": [],
+      "reviewStatus": [],
+      "directions": [],
+      "customFieldFilters": {}
+    }
+  },
+  "home": {
+    "layouts": {
+      "Default": {
+        "lg": [
+          {
+            "i": "weeklySummary",
+            "x": 2,
+            "y": 4,
+            "w": 4,
+            "h": 4
+          },
+          {
+            "i": "gettingStarted",
+            "x": 6,
+            "y": 2,
+            "w": 3,
+            "h": 6
+          },
+          {
+            "i": "unreviewedTrades",
+            "x": 6,
+            "y": 0,
+            "w": 3,
+            "h": 2
+          },
+          {
+            "i": "recentItems",
+            "x": 0,
+            "y": 4,
+            "w": 2,
+            "h": 4
+          },
+          {
+            "i": "positionSize",
+            "x": 9,
+            "y": 0,
+            "w": 3,
+            "h": 8
+          },
+          {
+            "i": "yearHeatmap",
+            "x": 0,
+            "y": 0,
+            "w": 6,
+            "h": 4
+          }
+        ],
+        "md": [
+          {
+            "i": "weeklySummary",
+            "x": 3,
+            "y": 1,
+            "w": 3,
+            "h": 5
+          },
+          {
+            "i": "gettingStarted",
+            "x": 0,
+            "y": 0,
+            "w": 3,
+            "h": 6
+          },
+          {
+            "i": "unreviewedTrades",
+            "x": 3,
+            "y": 0,
+            "w": 3,
+            "h": 1
+          },
+          {
+            "i": "recentItems",
+            "x": 3,
+            "y": 11,
+            "w": 3,
+            "h": 8
+          },
+          {
+            "i": "positionSize",
+            "x": 0,
+            "y": 11,
+            "w": 3,
+            "h": 8
+          },
+          {
+            "i": "yearHeatmap",
+            "x": 0,
+            "y": 6,
+            "w": 6,
+            "h": 5
+          }
+        ],
+        "sm": [
+          {
+            "i": "weeklySummary",
+            "x": 0,
+            "y": 1,
+            "w": 2,
+            "h": 5
+          },
+          {
+            "i": "gettingStarted",
+            "x": 2,
+            "y": 0,
+            "w": 2,
+            "h": 6
+          },
+          {
+            "i": "unreviewedTrades",
+            "x": 0,
+            "y": 0,
+            "w": 2,
+            "h": 1
+          },
+          {
+            "i": "recentItems",
+            "x": 0,
+            "y": 11,
+            "w": 2,
+            "h": 7
+          },
+          {
+            "i": "positionSize",
+            "x": 2,
+            "y": 11,
+            "w": 2,
+            "h": 7
+          },
+          {
+            "i": "yearHeatmap",
+            "x": 0,
+            "y": 6,
+            "w": 4,
+            "h": 5
+          }
+        ],
+        "xs": [
+          {
+            "i": "weeklySummary",
+            "x": 0,
+            "y": 6,
+            "w": 2,
+            "h": 4
+          },
+          {
+            "i": "gettingStarted",
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 6
+          },
+          {
+            "i": "unreviewedTrades",
+            "x": 0,
+            "y": 10,
+            "w": 2,
+            "h": 2
+          },
+          {
+            "i": "recentItems",
+            "x": 1,
+            "y": 0,
+            "w": 1,
+            "h": 6
+          },
+          {
+            "i": "positionSize",
+            "x": 0,
+            "y": 17,
+            "w": 2,
+            "h": 7
+          },
+          {
+            "i": "yearHeatmap",
+            "x": 0,
+            "y": 12,
+            "w": 2,
+            "h": 5
+          }
+        ],
+        "xxs": [
+          {
+            "i": "weeklySummary",
+            "x": 0,
+            "y": 6,
+            "w": 1,
+            "h": 4
+          },
+          {
+            "i": "gettingStarted",
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 6
+          },
+          {
+            "i": "unreviewedTrades",
+            "x": 0,
+            "y": 10,
+            "w": 1,
+            "h": 2
+          },
+          {
+            "i": "recentItems",
+            "x": 0,
+            "y": 12,
+            "w": 1,
+            "h": 5
+          },
+          {
+            "i": "positionSize",
+            "x": 0,
+            "y": 22,
+            "w": 1,
+            "h": 7
+          },
+          {
+            "i": "yearHeatmap",
+            "x": 0,
+            "y": 17,
+            "w": 1,
+            "h": 5
+          }
+        ]
+      }
+    },
+    "activeLayout": "Default",
+    "quickLinks": [
+      {
+        "id": "add-trade",
+        "label": "Add Trade",
+        "icon": "plus-circle",
+        "color": "var(--interactive-accent)",
+        "action": "addTrade",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "trade-log",
+        "label": "Trade Log",
+        "icon": "folder-tree",
+        "color": "var(--text-accent)",
+        "action": "openTradeLog",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "setups",
+        "label": "Setups",
+        "icon": "flask-conical",
+        "color": "var(--text-accent)",
+        "action": "openSetups",
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "trading-dashboard",
+        "label": "Dashboard",
+        "icon": "grip",
+        "color": "var(--text-accent)",
+        "action": "openTradingDashboard",
+        "visible": true,
+        "order": 4
+      },
+      {
+        "id": "account-dashboard",
+        "label": "Accounts",
+        "icon": "users",
+        "color": "var(--text-accent)",
+        "action": "openAccountDashboard",
+        "visible": true,
+        "order": 5
+      },
+      {
+        "id": "todays-drc",
+        "label": "Today's DRC",
+        "icon": "calendar",
+        "color": "var(--text-accent)",
+        "action": "openTodaysDRC",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "weekly-review",
+        "label": "This Week Review",
+        "icon": "calendar-check",
+        "color": "var(--text-accent)",
+        "action": "openWeeklyReview",
+        "visible": false,
+        "order": 6
+      },
+      {
+        "id": "monthly-review",
+        "label": "This Month Review",
+        "icon": "calendar-range",
+        "color": "var(--text-accent)",
+        "action": "openMonthlyReview",
+        "visible": false,
+        "order": 7
+      },
+      {
+        "id": "quarterly-review",
+        "label": "This Quarter Review",
+        "icon": "calendar-search",
+        "color": "var(--text-accent)",
+        "action": "openQuarterlyReview",
+        "visible": false,
+        "order": 8
+      },
+      {
+        "id": "yearly-review",
+        "label": "This Year Review",
+        "icon": "calendar-heart",
+        "color": "var(--text-accent)",
+        "action": "openYearlyReview",
+        "visible": false,
+        "order": 9
+      },
+      {
+        "id": "csv-import",
+        "label": "Trade Import",
+        "icon": "import",
+        "color": "var(--text-accent)",
+        "action": "openCSVImport",
+        "visible": true,
+        "order": 10
+      },
+      {
+        "id": "quick-import",
+        "label": "Quick Import",
+        "icon": "zap",
+        "color": "var(--text-accent)",
+        "action": "openQuickTradeImport",
+        "visible": false,
+        "order": 11
+      },
+      {
+        "id": "layout-builder",
+        "label": "Layout Builder",
+        "icon": "lucide-blocks",
+        "color": "var(--text-accent)",
+        "action": "openLayoutBuilder",
+        "visible": true,
+        "order": 12
+      },
+      {
+        "id": "navigation-sidebar",
+        "label": "Navigation Sidebar",
+        "icon": "panel-left-open",
+        "color": "var(--text-accent)",
+        "action": "openNavigationSidebar",
+        "visible": false,
+        "order": 13
+      },
+      {
+        "id": "session-mode",
+        "label": "Session Mode",
+        "icon": "radio",
+        "color": "var(--text-accent)",
+        "action": "openSessionMode",
+        "visible": true,
+        "order": 14
+      }
+    ],
+    "quickLinksPosition": "belowWidgets",
+    "activeWidgets": [
+      "recentItems",
+      "yearHeatmap"
+    ],
+    "embeddedNotes": {},
+    "goals": {},
+    "topBreakdowns": {},
+    "positionSizeDefaults": {
+      "riskPercentage": 1,
+      "accountBalance": 341,
+      "assetType": "forex",
+      "lastFuturesSymbol": "ES",
+      "lastForexSymbol": "EURUSD"
+    },
+    "backgroundImagePath": "",
+    "showBackgroundInDashboard": false
+  },
+  "account": {
+    "defaultAccountType": "demo",
+    "defaultDrawdownType": "none",
+    "defaultDrawdownAmount": 0,
+    "showBalanceInDashboard": true,
+    "excludedAccountTypes": [
+      "archived"
+    ],
+    "includeWithdrawalsFromExcluded": {
+      "archived": true,
+      "demo": false
+    },
+    "accountTypeOrder": [
+      "funded",
+      "evaluation",
+      "demo",
+      "archived"
+    ],
+    "accountMetadata": {
+      "PA+SMC": {
+        "accountType": "Evaluation",
+        "createdDate": "2026-08-10T16:00:00.000Z",
+        "initialBalance": 705,
+        "drawdownType": "none",
+        "drawdownAmount": 0,
+        "hasProfitTarget": false,
+        "profitTarget": 0,
+        "profitTargetType": "absolute",
+        "monthlyCost": 44,
+        "currency": "USD",
+        "name": "PA+SMC",
+        "liveBalanceAdjustment": -364,
+        "lastUpdated": "2026-08-10T16:32:01.088Z"
+      }
+    }
+  },
+  "copyTradeAdjustments": {},
+  "backendIntegration": {
+    "serverUrl": "https://api.journalit.co",
+    "syncEnabled": false,
+    "userId": "",
+    "showSyncNotifications": true,
+    "showNewTradeNotifications": true,
+    "showUpdateNotifications": true,
+    "lastSeenVersion": "1.8.2",
+    "dismissedVersion": "1.8.2",
+    "userEmail": "",
+    "subscriptionTier": "free",
+    "secretStorageNamespace": "00e82916-db34-43ce-8d9f-4fc69186241d",
+    "canonicalProjectionMigrationVersion": 2
+  },
+  "csvTemplates": [],
+  "csvHiddenBrokers": [],
+  "csvLastAssetType": {},
+  "initializedOptionTypes": [
+    "instrument",
+    "account_type",
+    "setup",
+    "mistake",
+    "tag",
+    "event"
+  ],
+  "symbolMappings": [],
+  "navigation": {
+    "tabBehavior": "replaceActiveTab",
+    "items": [
+      {
+        "id": "nav-home",
+        "label": "Home",
+        "icon": "circle-dot-dashed",
+        "action": "openHome",
+        "section": "overview",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "nav-dashboard",
+        "label": "Dashboard",
+        "icon": "grip",
+        "action": "openTradingDashboard",
+        "section": "overview",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "nav-trade-log",
+        "label": "Trade Log",
+        "icon": "folder-tree",
+        "action": "openTradeLog",
+        "section": "overview",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "nav-setups",
+        "label": "Setups",
+        "icon": "flask-conical",
+        "action": "openSetups",
+        "section": "overview",
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "nav-account-dashboard",
+        "label": "Accounts",
+        "icon": "users",
+        "action": "openAccountDashboard",
+        "section": "overview",
+        "visible": true,
+        "order": 4
+      },
+      {
+        "id": "nav-drc",
+        "label": "Today's DRC",
+        "icon": "calendar",
+        "action": "openTodaysDRC",
+        "section": "reviews",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "nav-weekly",
+        "label": "This Week's Review",
+        "icon": "calendar-check",
+        "action": "openWeeklyReview",
+        "section": "reviews",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "nav-monthly",
+        "label": "This Month's Review",
+        "icon": "calendar-range",
+        "action": "openMonthlyReview",
+        "section": "reviews",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "nav-quarterly",
+        "label": "This Quarter's Review",
+        "icon": "calendar-search",
+        "action": "openQuarterlyReview",
+        "section": "reviews",
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "nav-yearly",
+        "label": "This Year's Review",
+        "icon": "calendar-heart",
+        "action": "openYearlyReview",
+        "section": "reviews",
+        "visible": true,
+        "order": 4
+      },
+      {
+        "id": "nav-add-trade",
+        "label": "Add Trade",
+        "icon": "plus-circle",
+        "action": "addTrade",
+        "section": "tools",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "nav-layout-builder",
+        "label": "Layout Builder",
+        "icon": "lucide-blocks",
+        "action": "openLayoutBuilder",
+        "section": "tools",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "nav-quick-import",
+        "label": "Quick Import",
+        "icon": "zap",
+        "action": "openQuickTradeImport",
+        "section": "tools",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "nav-csv-import",
+        "label": "Trade Import",
+        "icon": "import",
+        "action": "openCSVImport",
+        "section": "tools",
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "nav-position-size",
+        "label": "Position Size Calculator",
+        "icon": "calculator",
+        "action": "openPositionSizeCalculator",
+        "section": "tools",
+        "visible": true,
+        "order": 4
+      },
+      {
+        "id": "nav-session-mode",
+        "label": "Session Mode",
+        "icon": "radio",
+        "action": "openSessionMode",
+        "section": "tools",
+        "visible": true,
+        "order": 5
+      }
+    ]
+  },
+  "customOptions_options": {
+    "instrument": [
+      {
+        "name": "AAPL",
+        "assetType": "stock"
+      },
+      {
+        "name": "MSFT",
+        "assetType": "stock"
+      },
+      {
+        "name": "TSLA",
+        "assetType": "stock"
+      },
+      {
+        "name": "ES1",
+        "assetType": "futures",
+        "futuresData": {
+          "dollarPerPoint": 50,
+          "tickSize": 0.25,
+          "tickValue": 12.5
+        }
+      },
+      {
+        "name": "NQ1",
+        "assetType": "futures",
+        "futuresData": {
+          "dollarPerPoint": 20,
+          "tickSize": 0.25,
+          "tickValue": 5
+        }
+      },
+      {
+        "name": "EURUSD",
+        "assetType": "forex",
+        "forexData": {
+          "lotSize": 100000,
+          "pipValue": 10
+        }
+      },
+      {
+        "name": "go",
+        "assetType": "futures"
+      },
+      {
+        "name": "gol",
+        "assetType": "futures"
+      }
+    ],
+    "account": [
+      "PA+SMC"
+    ],
+    "account_type": [
+      "Demo",
+      "Evaluation",
+      "Funded",
+      "Archived"
+    ],
+    "setup": [
+      "Breakout Setup",
+      "Reversal Pattern"
+    ],
+    "mistake": [
+      "Early Entry",
+      "Poor Position Sizing"
+    ],
+    "tag": [
+      "Swing Trade",
+      "Day Trade",
+      "Momentum",
+      "Reversal",
+      "Earnings"
+    ],
+    "event": [
+      {
+        "name": "FOMC Meeting",
+        "color": "gray"
+      },
+      {
+        "name": "Earnings Announcement",
+        "color": "gray"
+      },
+      {
+        "name": "Economic Data Release",
+        "color": "gray"
+      },
+      {
+        "name": "Fed Speech",
+        "color": "gray"
+      },
+      {
+        "name": "Market Holiday",
+        "color": "gray"
+      }
+    ],
+    "tagColors": {}
+  },
+  "localMeta": {
+    "viewGuides": {
+      "schemaVersion": 1,
+      "guides": {
+        "home.main": {
+          "guideId": "home.main",
+          "viewType": "journalit-home-view",
+          "guideVersion": 5,
+          "status": "completed",
+          "updatedAt": 1786379349924
+        },
+        "dashboard.empty": {
+          "guideId": "dashboard.empty",
+          "viewType": "journalit-home-view",
+          "guideVersion": 2,
+          "status": "completed",
+          "updatedAt": 1786379223410
+        },
+        "layout-builder.main": {
+          "guideId": "layout-builder.main",
+          "viewType": "journalit-template-builder-view",
+          "guideVersion": 3,
+          "status": "skipped",
+          "updatedAt": 1786379697388
+        },
+        "tradelog.empty": {
+          "guideId": "tradelog.empty",
+          "viewType": "journalit-trade-log-view",
+          "guideVersion": 1,
+          "status": "skipped",
+          "updatedAt": 1786379710870
+        },
+        "tradelog.main": {
+          "guideId": "tradelog.main",
+          "viewType": "journalit-trade-log-view",
+          "guideVersion": 8,
+          "status": "skipped",
+          "updatedAt": 1786380945490
+        },
+        "tradelog.imageGallery.empty": {
+          "guideId": "tradelog.imageGallery.empty",
+          "viewType": "journalit-trade-log-view",
+          "guideVersion": 3,
+          "status": "completed",
+          "updatedAt": 1786380968785
+        },
+        "setups.main": {
+          "guideId": "setups.main",
+          "viewType": "journalit-setups-view",
+          "guideVersion": 9,
+          "status": "skipped",
+          "updatedAt": 1786381055893
+        },
+        "account-dashboard.main": {
+          "guideId": "account-dashboard.main",
+          "viewType": "account-dashboard",
+          "guideVersion": 1,
+          "status": "skipped",
+          "updatedAt": 1786381068898
+        }
+      }
+    },
+    "onboarding": {
+      "version": 1,
+      "completed": true,
+      "skipped": false,
+      "completedAt": 1786379334353
+    },
+    "tradeFormGuide": {
+      "guideId": "trade-form.main",
+      "version": 1,
+      "status": "skipped",
+      "updatedAt": 1786379426337
+    }
+  }
+}

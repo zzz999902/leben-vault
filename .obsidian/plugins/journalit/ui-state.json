@@ -1,0 +1,265 @@
+{
+  "recentItems": [
+    {
+      "type": "view",
+      "title": "交易日志",
+      "viewType": "journalit-trade-log-view",
+      "icon": "folder-tree",
+      "openedAt": "2026-08-10T16:58:25.649Z"
+    },
+    {
+      "type": "view",
+      "title": "设置",
+      "viewType": "journalit-setups-view",
+      "icon": "flask-conical",
+      "openedAt": "2026-08-10T16:58:17.758Z"
+    },
+    {
+      "type": "view",
+      "title": "交易设置",
+      "viewType": "journalit-setups-view",
+      "icon": "flask-conical",
+      "openedAt": "2026-08-10T16:58:17.745Z"
+    },
+    {
+      "type": "view",
+      "title": "布局编辑器",
+      "viewType": "journalit-template-builder-view",
+      "icon": "lucide-blocks",
+      "openedAt": "2026-08-10T16:58:14.646Z"
+    },
+    {
+      "type": "view",
+      "title": "账户",
+      "viewType": "account-dashboard",
+      "icon": "users",
+      "openedAt": "2026-08-10T16:57:44.744Z"
+    },
+    {
+      "type": "file",
+      "title": "SMC交易系统",
+      "path": "交易日记/SMC交易系统.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-10T16:55:59.516Z"
+    },
+    {
+      "type": "file",
+      "title": "EURUSD-110826-T1",
+      "path": "!Journalit/2026/Q3/08/W33/trades/EURUSD-110826-T1.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-10T16:55:47.734Z"
+    },
+    {
+      "type": "view",
+      "title": "Trade Import",
+      "viewType": "journalit-csv-import-view",
+      "icon": "import",
+      "openedAt": "2026-08-10T16:41:31.399Z"
+    },
+    {
+      "type": "view",
+      "title": "Journalit 引导",
+      "viewType": "journalit-onboarding-view",
+      "icon": "circle-dot-dashed",
+      "openedAt": "2026-08-10T16:27:08.052Z"
+    },
+    {
+      "type": "view",
+      "title": "仪表盘",
+      "viewType": "journalit-dashboard-view",
+      "icon": "grip",
+      "openedAt": "2026-08-10T16:26:59.124Z"
+    }
+  ],
+  "imageGallery": {
+    "sourceType": "all",
+    "sort": "newest",
+    "size": "medium",
+    "viewMode": "grouped"
+  },
+  "tradeLogMode": "trades",
+  "gettingStartedDismissed": false,
+  "gettingStartedOpenedTradeLog": true,
+  "gettingStartedOpenedLayoutBuilder": true,
+  "gettingStartedOpenedNavigationSidebar": true,
+  "statusFilterCancelledMigrationVersion": 1,
+  "lastUsedFilters": {
+    "dateRange": [
+      "2026-08-10T16:00:00.000Z",
+      "2026-08-11T15:59:59.999Z"
+    ],
+    "accounts": [],
+    "tickers": [],
+    "setups": [],
+    "tags": [],
+    "mistakes": [],
+    "tradeTypes": [
+      "regular"
+    ],
+    "statuses": [],
+    "reviewStatus": [],
+    "directions": [],
+    "customFieldFilters": {},
+    "imageAnnotationStatus": [],
+    "imageTags": []
+  },
+  "viewFilters": {
+    "dashboard": {
+      "dateRange": [
+        "2026-08-10T16:00:00.000Z",
+        "2026-08-11T15:59:59.999Z"
+      ],
+      "accounts": [],
+      "tickers": [],
+      "setups": [],
+      "tags": [],
+      "mistakes": [],
+      "tradeTypes": [
+        "regular"
+      ],
+      "statuses": [],
+      "reviewStatus": [],
+      "directions": [],
+      "customFieldFilters": {},
+      "imageAnnotationStatus": [],
+      "imageTags": []
+    },
+    "tradelog": {
+      "dateRange": [
+        null,
+        null
+      ],
+      "viewLevel": "trades",
+      "tradeTypes": [
+        "regular",
+        "missed",
+        "backtest"
+      ],
+      "statuses": [],
+      "reviewStatus": [],
+      "accounts": [],
+      "directions": [],
+      "sessionLogTags": [],
+      "tickers": [],
+      "setups": [],
+      "tags": [],
+      "mistakes": [],
+      "customFieldFilters": {},
+      "imageAnnotationStatus": [],
+      "imageTags": []
+    },
+    "reviews": {
+      "accounts": [],
+      "tickers": [],
+      "setups": [],
+      "tags": [],
+      "mistakes": [],
+      "tradeTypes": [
+        "regular"
+      ],
+      "statuses": [],
+      "reviewStatus": [],
+      "directions": [],
+      "customFieldFilters": {},
+      "imageAnnotationStatus": [],
+      "imageTags": []
+    }
+  },
+  "tradeLog": {
+    "columnVisibility": {
+      "image": true,
+      "account": true,
+      "ticker": true,
+      "status": true,
+      "pnl": true,
+      "direction": true,
+      "setups": true,
+      "mistakes": true,
+      "tags": true,
+      "date": true,
+      "reviewed": true,
+      "duration": false,
+      "positionSize": false,
+      "entryPrice": false,
+      "exitPrice": false,
+      "priceMove": false,
+      "stopLoss": false,
+      "expirationDate": false,
+      "daysToExpiry": false,
+      "thesis": false,
+      "mtComment": false,
+      "exchange": false,
+      "entryTime": false,
+      "exitDate": false,
+      "exitTime": false,
+      "slDistanceDollar": false,
+      "slDistancePercent": false,
+      "riskAmount": false,
+      "rMultiple": false,
+      "maxR": false,
+      "maePrice": false,
+      "mfePrice": false,
+      "mae": false,
+      "mfe": false,
+      "maePercent": false,
+      "mfePercent": false,
+      "positionValue": false,
+      "fees": false,
+      "dividends": false,
+      "returnPercent": false
+    },
+    "columnOrder": [
+      "image",
+      "account",
+      "ticker",
+      "status",
+      "pnl",
+      "direction",
+      "setups",
+      "mistakes",
+      "tags",
+      "date",
+      "reviewed",
+      "duration",
+      "positionSize",
+      "entryPrice",
+      "exitPrice",
+      "priceMove",
+      "stopLoss",
+      "expirationDate",
+      "daysToExpiry",
+      "thesis",
+      "mtComment",
+      "exchange",
+      "entryTime",
+      "exitDate",
+      "exitTime",
+      "slDistanceDollar",
+      "slDistancePercent",
+      "riskAmount",
+      "rMultiple",
+      "maxR",
+      "maePrice",
+      "mfePrice",
+      "mae",
+      "mfe",
+      "maePercent",
+      "mfePercent",
+      "positionValue",
+      "fees",
+      "dividends",
+      "returnPercent"
+    ],
+    "columnWidths": {},
+    "expandedMode": true
+  },
+  "selectedPeriod": "lifetime",
+  "dashboardActiveLayout": "Default",
+  "homeActiveLayout": "Default",
+  "lastFuturesSymbol": "ES",
+  "lastForexSymbol": "EURUSD",
+  "oldDerivedStorageCleanupVersion": "2026-06-plugin-storage-v3",
+  "persistentCacheVersion": "2026-04-account-identity-v1",
+  "homeViewMode": "overview",
+  "lastAssetType": "forex"
+}

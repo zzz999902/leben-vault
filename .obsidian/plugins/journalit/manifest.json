@@ -1,0 +1,10 @@
+{
+	"id": "journalit",
+	"name": "Journalit",
+	"version": "1.8.2",
+	"minAppVersion": "1.12.4",
+	"description": "Trading journal with templates, trade tracking, imports, and reviews.",
+	"author": "Cursivez",
+	"authorUrl": "https://github.com/Cursivez",
+	"isDesktopOnly": false
+}

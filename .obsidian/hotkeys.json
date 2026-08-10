@@ -32,5 +32,14 @@
       ],
       "key": "0"
     }
+  ],
+  "journalit:open-home": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
+    }
   ]
 }
