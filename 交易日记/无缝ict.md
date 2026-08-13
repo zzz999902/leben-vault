@@ -31,3 +31,14 @@
 ![](assets/无缝ict/file-20260813091748603.png)
 
 ![](assets/无缝ict/file-20260813133433100.png)![](assets/无缝ict/file-20260813133632520.png)
+
+# 不同的交易模型
+
+
+![](assets/无缝ict/file-20260813141417722.png)
+![](assets/无缝ict/file-20260813141456254.png)![](assets/无缝ict/file-20260813141516701.png)
+
+
+# 高级市场结构
+
+![](assets/无缝ict/file-20260813142410067.png)![](assets/无缝ict/file-20260813142724295.png)
