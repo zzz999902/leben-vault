@@ -41,4 +41,9 @@
 
 # 高级市场结构
 
-![](assets/无缝ict/file-20260813142410067.png)![](assets/无缝ict/file-20260813142724295.png)![](assets/无缝ict/file-20260813145349519.png)
+![](assets/无缝ict/file-20260813142410067.png)![](assets/无缝ict/file-20260813142724295.png)![](assets/无缝ict/file-20260813145349519.png)![](assets/无缝ict/file-20260813151813051.png)
+
+# 红绿灯模型
+
+![](assets/无缝ict/file-20260813152344796.png)
+![](assets/无缝ict/file-20260813153005805.png)
