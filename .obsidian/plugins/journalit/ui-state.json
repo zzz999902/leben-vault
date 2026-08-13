@@ -1,6 +1,13 @@
 {
   "recentItems": [
     {
+      "type": "file",
+      "title": "未命名",
+      "path": "交易日记/未命名.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-13T00:48:21.662Z"
+    },
+    {
       "type": "view",
       "title": "交易日志",
       "viewType": "journalit-trade-log-view",
