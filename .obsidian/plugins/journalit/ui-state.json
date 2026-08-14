@@ -2,17 +2,45 @@
   "recentItems": [
     {
       "type": "file",
-      "title": "SMC交易系统",
-      "path": "交易日记/SMC交易系统.md",
+      "title": "ICT交易系统",
+      "path": "交易日记/ICT交易系统.md",
       "icon": "file-text",
-      "openedAt": "2026-08-14T06:49:45.264Z"
+      "openedAt": "2026-08-14T07:05:16.215Z"
     },
     {
       "type": "file",
       "title": "无缝ict",
       "path": "交易日记/无缝ict.md",
       "icon": "file-text",
-      "openedAt": "2026-08-14T06:49:26.612Z"
+      "openedAt": "2026-08-14T07:05:14.495Z"
+    },
+    {
+      "type": "file",
+      "title": "常用知识",
+      "path": "交易日记/常用知识.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-14T07:05:02.225Z"
+    },
+    {
+      "type": "file",
+      "title": "止盈目标位",
+      "path": "交易日记/止盈目标位.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-14T07:04:48.294Z"
+    },
+    {
+      "type": "file",
+      "title": "缺口",
+      "path": "交易日记/缺口.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-14T07:04:37.937Z"
+    },
+    {
+      "type": "file",
+      "title": "SMC交易系统",
+      "path": "交易日记/SMC交易系统.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-14T06:49:45.264Z"
     },
     {
       "type": "view",
