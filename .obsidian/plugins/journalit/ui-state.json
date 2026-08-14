@@ -1,18 +1,25 @@
 {
   "recentItems": [
     {
+      "type": "file",
+      "title": "SMC交易系统",
+      "path": "交易日记/SMC交易系统.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-14T06:49:45.264Z"
+    },
+    {
+      "type": "file",
+      "title": "无缝ict",
+      "path": "交易日记/无缝ict.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-14T06:49:26.612Z"
+    },
+    {
       "type": "view",
       "title": "交易日志",
       "viewType": "journalit-trade-log-view",
       "icon": "folder-tree",
       "openedAt": "2026-08-14T06:37:22.414Z"
-    },
-    {
-      "type": "file",
-      "title": "SMC交易系统",
-      "path": "交易日记/SMC交易系统.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-14T01:25:08.734Z"
     },
     {
       "type": "file",
