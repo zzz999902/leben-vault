@@ -4,3 +4,7 @@
 - 复合规则的![](assets/SMC交易系统/file-20260814094402765.png)
 - 仓位管理![](assets/SMC交易系统/file-20260814095547062.png)
 - 交易核心能力![](assets/SMC交易系统/file-20260814095939323.png)
+
+# pd array
+
+![](assets/SMC交易系统/file-20260814143000627.png)

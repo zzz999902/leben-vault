@@ -1,18 +1,18 @@
 {
   "recentItems": [
     {
+      "type": "view",
+      "title": "交易日志",
+      "viewType": "journalit-trade-log-view",
+      "icon": "folder-tree",
+      "openedAt": "2026-08-14T06:37:22.414Z"
+    },
+    {
       "type": "file",
       "title": "SMC交易系统",
       "path": "交易日记/SMC交易系统.md",
       "icon": "file-text",
       "openedAt": "2026-08-14T01:25:08.734Z"
-    },
-    {
-      "type": "view",
-      "title": "交易日志",
-      "viewType": "journalit-trade-log-view",
-      "icon": "folder-tree",
-      "openedAt": "2026-08-13T10:06:50.538Z"
     },
     {
       "type": "file",
