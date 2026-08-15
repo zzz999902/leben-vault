@@ -2,10 +2,38 @@
   "recentItems": [
     {
       "type": "file",
+      "title": "学习笔记",
+      "path": "交易日记/学习笔记.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-15T04:29:11.544Z"
+    },
+    {
+      "type": "file",
       "title": "ICT交易系统",
       "path": "交易日记/ICT交易系统.md",
       "icon": "file-text",
-      "openedAt": "2026-08-15T02:10:34.640Z"
+      "openedAt": "2026-08-15T04:29:00.908Z"
+    },
+    {
+      "type": "file",
+      "title": "早道",
+      "path": "英语/早道.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-15T04:00:21.076Z"
+    },
+    {
+      "type": "file",
+      "title": "N4-N5",
+      "path": "日语/N4-N5.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-15T03:59:53.706Z"
+    },
+    {
+      "type": "file",
+      "title": "未命名",
+      "path": "交易日记/未命名.md",
+      "icon": "file-text",
+      "openedAt": "2026-08-15T03:38:47.024Z"
     },
     {
       "type": "file",
@@ -48,13 +76,6 @@
       "viewType": "journalit-trade-log-view",
       "icon": "folder-tree",
       "openedAt": "2026-08-14T06:37:22.414Z"
-    },
-    {
-      "type": "file",
-      "title": "未命名",
-      "path": "交易日记/未命名.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-13T00:48:21.662Z"
     },
     {
       "type": "view",
