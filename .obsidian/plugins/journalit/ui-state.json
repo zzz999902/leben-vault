@@ -1,11 +1,18 @@
 {
   "recentItems": [
     {
+      "type": "view",
+      "title": "交易日志",
+      "viewType": "journalit-trade-log-view",
+      "icon": "folder-tree",
+      "openedAt": "2026-09-07T07:44:39.100Z"
+    },
+    {
       "type": "file",
       "title": "交易模型",
       "path": "交易日记/交易模型.md",
       "icon": "file-text",
-      "openedAt": "2026-09-06T08:42:17.678Z"
+      "openedAt": "2026-09-07T07:44:28.049Z"
     },
     {
       "type": "file",
@@ -76,13 +83,6 @@
       "path": "交易日记/SMC交易系统.md",
       "icon": "file-text",
       "openedAt": "2026-08-14T06:49:45.264Z"
-    },
-    {
-      "type": "view",
-      "title": "交易日志",
-      "viewType": "journalit-trade-log-view",
-      "icon": "folder-tree",
-      "openedAt": "2026-08-14T06:37:22.414Z"
     },
     {
       "type": "view",
@@ -331,5 +331,6 @@
   "oldDerivedStorageCleanupVersion": "2026-06-plugin-storage-v3",
   "persistentCacheVersion": "2026-04-account-identity-v1",
   "homeViewMode": "overview",
-  "lastAssetType": "forex"
+  "lastAssetType": "forex",
+  "setupOverviewSelectedDirections": []
 }
