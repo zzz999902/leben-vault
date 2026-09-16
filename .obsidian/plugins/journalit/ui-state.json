@@ -1,18 +1,18 @@
 {
   "recentItems": [
     {
+      "type": "file",
+      "title": "交易模型",
+      "path": "交易日记/交易模型.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-16T01:23:35.266Z"
+    },
+    {
       "type": "view",
       "title": "交易日志",
       "viewType": "journalit-trade-log-view",
       "icon": "folder-tree",
       "openedAt": "2026-09-10T13:35:10.605Z"
-    },
-    {
-      "type": "file",
-      "title": "交易模型",
-      "path": "交易日记/交易模型.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-07T07:44:28.049Z"
     },
     {
       "type": "file",
