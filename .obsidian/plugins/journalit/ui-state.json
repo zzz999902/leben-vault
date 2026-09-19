@@ -2,17 +2,94 @@
   "recentItems": [
     {
       "type": "file",
-      "title": "交易模型",
-      "path": "交易日记/交易模型.md",
+      "title": "09-Review",
+      "path": "!Journalit/2026/Q3/09/09-Review.md",
       "icon": "file-text",
-      "openedAt": "2026-09-16T01:23:35.266Z"
+      "openedAt": "2026-09-19T06:12:34.195Z"
+    },
+    {
+      "type": "file",
+      "title": "Q3-Review",
+      "path": "!Journalit/2026/Q3/Q3-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-19T06:12:31.888Z"
+    },
+    {
+      "type": "file",
+      "title": "W38-Review",
+      "path": "!Journalit/2026/Q3/09/W38/W38-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-19T06:12:27.419Z"
+    },
+    {
+      "type": "file",
+      "title": "DRC-190926",
+      "path": "!Journalit/2026/Q3/09/W38/DRC-190926.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-19T06:12:26.383Z"
+    },
+    {
+      "type": "file",
+      "title": "W37-Review",
+      "path": "!Journalit/2026/Q3/09/W37/W37-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-19T06:09:14.497Z"
+    },
+    {
+      "type": "file",
+      "title": "Q1-Review",
+      "path": "!Journalit/2026/Q1/Q1-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-19T06:04:55.281Z"
+    },
+    {
+      "type": "file",
+      "title": "2026-Review",
+      "path": "!Journalit/2026/2026-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-19T06:04:52.821Z"
+    },
+    {
+      "type": "view",
+      "title": "布局编辑器",
+      "viewType": "journalit-template-builder-view",
+      "icon": "lucide-blocks",
+      "openedAt": "2026-09-19T06:03:36.090Z"
+    },
+    {
+      "type": "view",
+      "title": "账户",
+      "viewType": "account-dashboard",
+      "icon": "users",
+      "openedAt": "2026-09-19T06:02:58.043Z"
+    },
+    {
+      "type": "view",
+      "title": "设置",
+      "viewType": "journalit-setups-view",
+      "icon": "flask-conical",
+      "openedAt": "2026-09-19T06:02:57.416Z"
+    },
+    {
+      "type": "view",
+      "title": "交易设置",
+      "viewType": "journalit-setups-view",
+      "icon": "flask-conical",
+      "openedAt": "2026-09-19T06:02:57.401Z"
     },
     {
       "type": "view",
       "title": "交易日志",
       "viewType": "journalit-trade-log-view",
       "icon": "folder-tree",
-      "openedAt": "2026-09-10T13:35:10.605Z"
+      "openedAt": "2026-09-19T05:57:54.384Z"
+    },
+    {
+      "type": "file",
+      "title": "交易模型",
+      "path": "交易日记/交易模型.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-16T01:23:35.266Z"
     },
     {
       "type": "file",
@@ -62,83 +139,6 @@
       "path": "交易日记/常用知识.md",
       "icon": "file-text",
       "openedAt": "2026-08-14T07:05:02.225Z"
-    },
-    {
-      "type": "file",
-      "title": "止盈目标位",
-      "path": "交易日记/止盈目标位.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-14T07:04:48.294Z"
-    },
-    {
-      "type": "file",
-      "title": "缺口",
-      "path": "交易日记/缺口.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-14T07:04:37.937Z"
-    },
-    {
-      "type": "file",
-      "title": "SMC交易系统",
-      "path": "交易日记/SMC交易系统.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-14T06:49:45.264Z"
-    },
-    {
-      "type": "view",
-      "title": "设置",
-      "viewType": "journalit-setups-view",
-      "icon": "flask-conical",
-      "openedAt": "2026-08-10T16:58:17.758Z"
-    },
-    {
-      "type": "view",
-      "title": "交易设置",
-      "viewType": "journalit-setups-view",
-      "icon": "flask-conical",
-      "openedAt": "2026-08-10T16:58:17.745Z"
-    },
-    {
-      "type": "view",
-      "title": "布局编辑器",
-      "viewType": "journalit-template-builder-view",
-      "icon": "lucide-blocks",
-      "openedAt": "2026-08-10T16:58:14.646Z"
-    },
-    {
-      "type": "view",
-      "title": "账户",
-      "viewType": "account-dashboard",
-      "icon": "users",
-      "openedAt": "2026-08-10T16:57:44.744Z"
-    },
-    {
-      "type": "file",
-      "title": "EURUSD-110826-T1",
-      "path": "!Journalit/2026/Q3/08/W33/trades/EURUSD-110826-T1.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-10T16:55:47.734Z"
-    },
-    {
-      "type": "view",
-      "title": "Trade Import",
-      "viewType": "journalit-csv-import-view",
-      "icon": "import",
-      "openedAt": "2026-08-10T16:41:31.399Z"
-    },
-    {
-      "type": "view",
-      "title": "Journalit 引导",
-      "viewType": "journalit-onboarding-view",
-      "icon": "circle-dot-dashed",
-      "openedAt": "2026-08-10T16:27:08.052Z"
-    },
-    {
-      "type": "view",
-      "title": "仪表盘",
-      "viewType": "journalit-dashboard-view",
-      "icon": "grip",
-      "openedAt": "2026-08-10T16:26:59.124Z"
     }
   ],
   "imageGallery": {
