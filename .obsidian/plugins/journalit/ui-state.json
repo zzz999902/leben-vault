@@ -1,6 +1,76 @@
 {
   "recentItems": [
     {
+      "type": "view",
+      "title": "布局编辑器",
+      "viewType": "journalit-template-builder-view",
+      "icon": "lucide-blocks",
+      "openedAt": "2026-09-19T06:31:15.961Z"
+    },
+    {
+      "type": "view",
+      "title": "仪表盘",
+      "viewType": "journalit-dashboard-view",
+      "icon": "grip",
+      "openedAt": "2026-09-19T06:31:13.053Z"
+    },
+    {
+      "type": "view",
+      "title": "交易日志",
+      "viewType": "journalit-trade-log-view",
+      "icon": "folder-tree",
+      "openedAt": "2026-09-19T06:31:11.097Z"
+    },
+    {
+      "type": "view",
+      "title": "设置",
+      "viewType": "journalit-setups-view",
+      "icon": "flask-conical",
+      "openedAt": "2026-09-19T06:30:49.159Z"
+    },
+    {
+      "type": "view",
+      "title": "交易设置",
+      "viewType": "journalit-setups-view",
+      "icon": "flask-conical",
+      "openedAt": "2026-09-19T06:30:49.144Z"
+    },
+    {
+      "type": "view",
+      "title": "账户",
+      "viewType": "account-dashboard",
+      "icon": "users",
+      "openedAt": "2026-09-19T06:30:48.755Z"
+    },
+    {
+      "type": "file",
+      "title": "W38-Review",
+      "path": "!Journalit/2026/Q3/09/W38/W38-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-19T06:29:06.701Z"
+    },
+    {
+      "type": "file",
+      "title": "DRC-180926",
+      "path": "!Journalit/2026/Q3/09/W38/DRC-180926.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-19T06:29:01.671Z"
+    },
+    {
+      "type": "file",
+      "title": "DRC-210926",
+      "path": "!Journalit/2026/Q3/09/W39/DRC-210926.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-19T06:28:59.994Z"
+    },
+    {
+      "type": "file",
+      "title": "DRC-190926",
+      "path": "!Journalit/2026/Q3/09/W38/DRC-190926.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-19T06:22:21.892Z"
+    },
+    {
       "type": "file",
       "title": "09-Review",
       "path": "!Journalit/2026/Q3/09/09-Review.md",
@@ -13,20 +83,6 @@
       "path": "!Journalit/2026/Q3/Q3-Review.md",
       "icon": "file-text",
       "openedAt": "2026-09-19T06:12:31.888Z"
-    },
-    {
-      "type": "file",
-      "title": "W38-Review",
-      "path": "!Journalit/2026/Q3/09/W38/W38-Review.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-19T06:12:27.419Z"
-    },
-    {
-      "type": "file",
-      "title": "DRC-190926",
-      "path": "!Journalit/2026/Q3/09/W38/DRC-190926.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-19T06:12:26.383Z"
     },
     {
       "type": "file",
@@ -48,41 +104,6 @@
       "path": "!Journalit/2026/2026-Review.md",
       "icon": "file-text",
       "openedAt": "2026-09-19T06:04:52.821Z"
-    },
-    {
-      "type": "view",
-      "title": "布局编辑器",
-      "viewType": "journalit-template-builder-view",
-      "icon": "lucide-blocks",
-      "openedAt": "2026-09-19T06:03:36.090Z"
-    },
-    {
-      "type": "view",
-      "title": "账户",
-      "viewType": "account-dashboard",
-      "icon": "users",
-      "openedAt": "2026-09-19T06:02:58.043Z"
-    },
-    {
-      "type": "view",
-      "title": "设置",
-      "viewType": "journalit-setups-view",
-      "icon": "flask-conical",
-      "openedAt": "2026-09-19T06:02:57.416Z"
-    },
-    {
-      "type": "view",
-      "title": "交易设置",
-      "viewType": "journalit-setups-view",
-      "icon": "flask-conical",
-      "openedAt": "2026-09-19T06:02:57.401Z"
-    },
-    {
-      "type": "view",
-      "title": "交易日志",
-      "viewType": "journalit-trade-log-view",
-      "icon": "folder-tree",
-      "openedAt": "2026-09-19T05:57:54.384Z"
     },
     {
       "type": "file",
@@ -118,27 +139,6 @@
       "path": "英语/早道.md",
       "icon": "file-text",
       "openedAt": "2026-08-15T04:00:21.076Z"
-    },
-    {
-      "type": "file",
-      "title": "N4-N5",
-      "path": "日语/N4-N5.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-15T03:59:53.706Z"
-    },
-    {
-      "type": "file",
-      "title": "未命名",
-      "path": "交易日记/未命名.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-15T03:38:47.024Z"
-    },
-    {
-      "type": "file",
-      "title": "常用知识",
-      "path": "交易日记/常用知识.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-14T07:05:02.225Z"
     }
   ],
   "imageGallery": {
@@ -332,5 +332,9 @@
   "persistentCacheVersion": "2026-04-account-identity-v1",
   "homeViewMode": "overview",
   "lastAssetType": "forex",
-  "setupOverviewSelectedDirections": []
+  "setupOverviewSelectedDirections": [],
+  "selectedAccountDashboardTradeTypes": [
+    "regular",
+    "backtest"
+  ]
 }

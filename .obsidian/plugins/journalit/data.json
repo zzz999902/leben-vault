@@ -1312,18 +1312,16 @@
       "archived"
     ],
     "includeWithdrawalsFromExcluded": {
-      "archived": true,
-      "demo": false
+      "archived": false,
+      "funded": true
     },
     "accountTypeOrder": [
       "funded",
-      "evaluation",
-      "demo",
       "archived"
     ],
     "accountMetadata": {
       "PA+SMC": {
-        "accountType": "Evaluation",
+        "accountType": "deleted",
         "createdDate": "2026-08-10T16:00:00.000Z",
         "initialBalance": 705,
         "drawdownType": "none",
@@ -1335,7 +1333,7 @@
         "currency": "USD",
         "name": "PA+SMC",
         "liveBalanceAdjustment": -364,
-        "lastUpdated": "2026-08-10T16:32:01.088Z"
+        "lastUpdated": "2026-09-19T06:30:29.519Z"
       }
     }
   },
@@ -1568,8 +1566,6 @@
       "PA+SMC"
     ],
     "account_type": [
-      "Demo",
-      "Evaluation",
       "Funded",
       "Archived"
     ],
