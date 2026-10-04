@@ -1,53 +1,102 @@
 {
   "recentItems": [
     {
-      "type": "view",
-      "title": "布局编辑器",
-      "viewType": "journalit-template-builder-view",
-      "icon": "lucide-blocks",
-      "openedAt": "2026-09-19T06:31:15.961Z"
+      "type": "file",
+      "title": "DRC-041026",
+      "path": "!Journalit/2026/Q4/10/W40/DRC-041026.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-04T07:39:53.277Z"
+    },
+    {
+      "type": "file",
+      "title": "交易模型",
+      "path": "交易日记/交易模型.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-04T07:30:57.583Z"
     },
     {
       "type": "view",
-      "title": "仪表盘",
-      "viewType": "journalit-dashboard-view",
-      "icon": "grip",
-      "openedAt": "2026-09-19T06:31:13.053Z"
+      "title": "账户:ICT",
+      "viewType": "journalit-account-page-view",
+      "icon": "user",
+      "openedAt": "2026-10-04T07:30:54.803Z"
     },
     {
       "type": "view",
       "title": "交易日志",
       "viewType": "journalit-trade-log-view",
       "icon": "folder-tree",
-      "openedAt": "2026-09-19T06:31:11.097Z"
+      "openedAt": "2026-10-04T07:30:54.133Z"
     },
     {
-      "type": "view",
-      "title": "设置",
-      "viewType": "journalit-setups-view",
-      "icon": "flask-conical",
-      "openedAt": "2026-09-19T06:30:49.159Z"
+      "type": "file",
+      "title": "10-Review",
+      "path": "!Journalit/2026/Q4/10/10-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-04T07:30:42.758Z"
     },
     {
-      "type": "view",
-      "title": "交易设置",
-      "viewType": "journalit-setups-view",
-      "icon": "flask-conical",
-      "openedAt": "2026-09-19T06:30:49.144Z"
-    },
-    {
-      "type": "view",
-      "title": "账户",
-      "viewType": "account-dashboard",
-      "icon": "users",
-      "openedAt": "2026-09-19T06:30:48.755Z"
+      "type": "file",
+      "title": "W40-Review",
+      "path": "!Journalit/2026/Q4/10/W40/W40-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-04T07:30:35.858Z"
     },
     {
       "type": "file",
       "title": "W38-Review",
       "path": "!Journalit/2026/Q3/09/W38/W38-Review.md",
       "icon": "file-text",
-      "openedAt": "2026-09-19T06:29:06.701Z"
+      "openedAt": "2026-09-19T11:55:32.917Z"
+    },
+    {
+      "type": "view",
+      "title": "仪表盘",
+      "viewType": "journalit-dashboard-view",
+      "icon": "grip",
+      "openedAt": "2026-09-19T10:32:57.048Z"
+    },
+    {
+      "type": "file",
+      "title": "DRC-190926",
+      "path": "!Journalit/2026/Q3/09/W38/DRC-190926.md",
+      "icon": "file-text",
+      "openedAt": "2026-09-19T07:10:16.044Z"
+    },
+    {
+      "type": "view",
+      "title": "账户",
+      "viewType": "account-dashboard",
+      "icon": "users",
+      "openedAt": "2026-09-19T07:00:36.917Z"
+    },
+    {
+      "type": "view",
+      "title": "设置",
+      "viewType": "journalit-setups-view",
+      "icon": "flask-conical",
+      "openedAt": "2026-09-19T06:59:49.489Z"
+    },
+    {
+      "type": "view",
+      "title": "交易设置",
+      "viewType": "journalit-setups-view",
+      "icon": "flask-conical",
+      "openedAt": "2026-09-19T06:59:49.471Z"
+    },
+    {
+      "type": "view",
+      "title": "Account: ICT",
+      "viewType": "journalit-account-page-view",
+      "icon": "user",
+      "openedAt": "2026-09-19T06:49:30.409Z"
+    },
+    {
+      "type": "view",
+      "title": "布局编辑器",
+      "viewType": "journalit-template-builder-view",
+      "icon": "lucide-blocks",
+      "openedAt": "2026-09-19T06:31:15.961Z"
     },
     {
       "type": "file",
@@ -62,13 +111,6 @@
       "path": "!Journalit/2026/Q3/09/W39/DRC-210926.md",
       "icon": "file-text",
       "openedAt": "2026-09-19T06:28:59.994Z"
-    },
-    {
-      "type": "file",
-      "title": "DRC-190926",
-      "path": "!Journalit/2026/Q3/09/W38/DRC-190926.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-19T06:22:21.892Z"
     },
     {
       "type": "file",
@@ -97,48 +139,6 @@
       "path": "!Journalit/2026/Q1/Q1-Review.md",
       "icon": "file-text",
       "openedAt": "2026-09-19T06:04:55.281Z"
-    },
-    {
-      "type": "file",
-      "title": "2026-Review",
-      "path": "!Journalit/2026/2026-Review.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-19T06:04:52.821Z"
-    },
-    {
-      "type": "file",
-      "title": "交易模型",
-      "path": "交易日记/交易模型.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-16T01:23:35.266Z"
-    },
-    {
-      "type": "file",
-      "title": "学习笔记",
-      "path": "交易日记/学习笔记.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-05T00:49:20.316Z"
-    },
-    {
-      "type": "file",
-      "title": "ICT交易系统",
-      "path": "交易日记/ICT交易系统.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-27T13:20:42.035Z"
-    },
-    {
-      "type": "file",
-      "title": "无缝ict",
-      "path": "交易日记/无缝ict.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-26T07:26:02.303Z"
-    },
-    {
-      "type": "file",
-      "title": "早道",
-      "path": "英语/早道.md",
-      "icon": "file-text",
-      "openedAt": "2026-08-15T04:00:21.076Z"
     }
   ],
   "imageGallery": {
@@ -148,15 +148,15 @@
     "viewMode": "grouped"
   },
   "tradeLogMode": "trades",
-  "gettingStartedDismissed": false,
+  "gettingStartedDismissed": true,
   "gettingStartedOpenedTradeLog": true,
   "gettingStartedOpenedLayoutBuilder": true,
   "gettingStartedOpenedNavigationSidebar": true,
   "statusFilterCancelledMigrationVersion": 1,
   "lastUsedFilters": {
     "dateRange": [
-      "2026-08-10T16:00:00.000Z",
-      "2026-08-11T15:59:59.999Z"
+      "2026-09-13T16:00:00.000Z",
+      "2026-09-19T15:59:59.999Z"
     ],
     "accounts": [],
     "tickers": [],
@@ -176,8 +176,8 @@
   "viewFilters": {
     "dashboard": {
       "dateRange": [
-        "2026-08-10T16:00:00.000Z",
-        "2026-08-11T15:59:59.999Z"
+        "2026-09-13T16:00:00.000Z",
+        "2026-09-19T15:59:59.999Z"
       ],
       "accounts": [],
       "tickers": [],
@@ -207,7 +207,9 @@
       ],
       "statuses": [],
       "reviewStatus": [],
-      "accounts": [],
+      "accounts": [
+        "ICT"
+      ],
       "directions": [],
       "sessionLogTags": [],
       "tickers": [],
@@ -336,5 +338,7 @@
   "selectedAccountDashboardTradeTypes": [
     "regular",
     "backtest"
-  ]
+  ],
+  "selectedHomeAccounts": [],
+  "homeAccountFilterSelectAllActive": false
 }
