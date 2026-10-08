@@ -2,17 +2,38 @@
   "recentItems": [
     {
       "type": "file",
-      "title": "DRC-041026",
-      "path": "!Journalit/2026/Q4/10/W40/DRC-041026.md",
+      "title": "DRC-081026",
+      "path": "!Journalit/2026/Q4/10/W41/DRC-081026.md",
       "icon": "file-text",
-      "openedAt": "2026-10-04T07:39:53.277Z"
+      "openedAt": "2026-10-08T13:00:33.667Z"
+    },
+    {
+      "type": "file",
+      "title": "DRC-091026",
+      "path": "!Journalit/2026/Q4/10/W41/DRC-091026.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-08T13:00:02.631Z"
     },
     {
       "type": "file",
       "title": "交易模型",
       "path": "交易日记/交易模型.md",
       "icon": "file-text",
-      "openedAt": "2026-10-04T07:30:57.583Z"
+      "openedAt": "2026-10-05T15:24:40.271Z"
+    },
+    {
+      "type": "file",
+      "title": "学习笔记",
+      "path": "交易日记/学习笔记.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-05T15:24:39.803Z"
+    },
+    {
+      "type": "file",
+      "title": "DRC-041026",
+      "path": "!Journalit/2026/Q4/10/W40/DRC-041026.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-04T07:39:53.277Z"
     },
     {
       "type": "view",
@@ -118,27 +139,6 @@
       "path": "!Journalit/2026/Q3/09/09-Review.md",
       "icon": "file-text",
       "openedAt": "2026-09-19T06:12:34.195Z"
-    },
-    {
-      "type": "file",
-      "title": "Q3-Review",
-      "path": "!Journalit/2026/Q3/Q3-Review.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-19T06:12:31.888Z"
-    },
-    {
-      "type": "file",
-      "title": "W37-Review",
-      "path": "!Journalit/2026/Q3/09/W37/W37-Review.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-19T06:09:14.497Z"
-    },
-    {
-      "type": "file",
-      "title": "Q1-Review",
-      "path": "!Journalit/2026/Q1/Q1-Review.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-19T06:04:55.281Z"
     }
   ],
   "imageGallery": {
