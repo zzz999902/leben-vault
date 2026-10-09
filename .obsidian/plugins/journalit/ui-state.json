@@ -5,7 +5,28 @@
       "title": "DRC-091026",
       "path": "!Journalit/2026/Q4/10/W41/DRC-091026.md",
       "icon": "file-text",
-      "openedAt": "2026-10-09T13:16:32.114Z"
+      "openedAt": "2026-10-09T16:14:21.439Z"
+    },
+    {
+      "type": "file",
+      "title": "DRC-101026",
+      "path": "!Journalit/2026/Q4/10/W41/DRC-101026.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-09T16:14:14.334Z"
+    },
+    {
+      "type": "file",
+      "title": "10-Review",
+      "path": "!Journalit/2026/Q4/10/10-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-09T16:14:07.935Z"
+    },
+    {
+      "type": "file",
+      "title": "W41-Review",
+      "path": "!Journalit/2026/Q4/10/W41/W41-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-09T16:13:59.628Z"
     },
     {
       "type": "file",
@@ -48,13 +69,6 @@
       "viewType": "journalit-trade-log-view",
       "icon": "folder-tree",
       "openedAt": "2026-10-04T07:30:54.133Z"
-    },
-    {
-      "type": "file",
-      "title": "10-Review",
-      "path": "!Journalit/2026/Q4/10/10-Review.md",
-      "icon": "file-text",
-      "openedAt": "2026-10-04T07:30:42.758Z"
     },
     {
       "type": "file",
@@ -125,20 +139,6 @@
       "path": "!Journalit/2026/Q3/09/W38/DRC-180926.md",
       "icon": "file-text",
       "openedAt": "2026-09-19T06:29:01.671Z"
-    },
-    {
-      "type": "file",
-      "title": "DRC-210926",
-      "path": "!Journalit/2026/Q3/09/W39/DRC-210926.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-19T06:28:59.994Z"
-    },
-    {
-      "type": "file",
-      "title": "09-Review",
-      "path": "!Journalit/2026/Q3/09/09-Review.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-19T06:12:34.195Z"
     }
   ],
   "imageGallery": {
