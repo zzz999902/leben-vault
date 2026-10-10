@@ -5,21 +5,77 @@
       "title": "DRC-091026",
       "path": "!Journalit/2026/Q4/10/W41/DRC-091026.md",
       "icon": "file-text",
-      "openedAt": "2026-10-09T16:14:21.439Z"
+      "openedAt": "2026-10-10T17:11:12.779Z"
     },
     {
       "type": "file",
-      "title": "DRC-101026",
-      "path": "!Journalit/2026/Q4/10/W41/DRC-101026.md",
+      "title": "DRC-111026",
+      "path": "!Journalit/2026/Q4/10/W41/DRC-111026.md",
       "icon": "file-text",
-      "openedAt": "2026-10-09T16:14:14.334Z"
+      "openedAt": "2026-10-10T17:11:10.347Z"
+    },
+    {
+      "type": "file",
+      "title": "2026-Review",
+      "path": "!Journalit/2026/2026-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-10T10:36:01.474Z"
+    },
+    {
+      "type": "file",
+      "title": "Q1-Review",
+      "path": "!Journalit/2026/Q1/Q1-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-10T10:35:59.536Z"
     },
     {
       "type": "file",
       "title": "10-Review",
       "path": "!Journalit/2026/Q4/10/10-Review.md",
       "icon": "file-text",
-      "openedAt": "2026-10-09T16:14:07.935Z"
+      "openedAt": "2026-10-10T10:35:55.174Z"
+    },
+    {
+      "type": "file",
+      "title": "DRC-101026",
+      "path": "!Journalit/2026/Q4/10/W41/DRC-101026.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-10T10:35:51.465Z"
+    },
+    {
+      "type": "view",
+      "title": "账户",
+      "viewType": "account-dashboard",
+      "icon": "users",
+      "openedAt": "2026-10-10T10:35:47.942Z"
+    },
+    {
+      "type": "view",
+      "title": "设置",
+      "viewType": "journalit-setups-view",
+      "icon": "flask-conical",
+      "openedAt": "2026-10-10T10:35:41.629Z"
+    },
+    {
+      "type": "view",
+      "title": "交易设置",
+      "viewType": "journalit-setups-view",
+      "icon": "flask-conical",
+      "openedAt": "2026-10-10T10:35:41.618Z"
+    },
+    {
+      "type": "view",
+      "title": "仪表盘",
+      "viewType": "journalit-dashboard-view",
+      "icon": "grip",
+      "openedAt": "2026-10-10T10:35:40.750Z"
+    },
+    {
+      "type": "view",
+      "title": "交易日志",
+      "viewType": "journalit-trade-log-view",
+      "icon": "folder-tree",
+      "openedAt": "2026-10-10T10:35:38.925Z"
     },
     {
       "type": "file",
@@ -64,13 +120,6 @@
       "openedAt": "2026-10-04T07:30:54.803Z"
     },
     {
-      "type": "view",
-      "title": "交易日志",
-      "viewType": "journalit-trade-log-view",
-      "icon": "folder-tree",
-      "openedAt": "2026-10-04T07:30:54.133Z"
-    },
-    {
       "type": "file",
       "title": "W40-Review",
       "path": "!Journalit/2026/Q4/10/W40/W40-Review.md",
@@ -85,60 +134,11 @@
       "openedAt": "2026-09-19T11:55:32.917Z"
     },
     {
-      "type": "view",
-      "title": "仪表盘",
-      "viewType": "journalit-dashboard-view",
-      "icon": "grip",
-      "openedAt": "2026-09-19T10:32:57.048Z"
-    },
-    {
       "type": "file",
       "title": "DRC-190926",
       "path": "!Journalit/2026/Q3/09/W38/DRC-190926.md",
       "icon": "file-text",
       "openedAt": "2026-09-19T07:10:16.044Z"
-    },
-    {
-      "type": "view",
-      "title": "账户",
-      "viewType": "account-dashboard",
-      "icon": "users",
-      "openedAt": "2026-09-19T07:00:36.917Z"
-    },
-    {
-      "type": "view",
-      "title": "设置",
-      "viewType": "journalit-setups-view",
-      "icon": "flask-conical",
-      "openedAt": "2026-09-19T06:59:49.489Z"
-    },
-    {
-      "type": "view",
-      "title": "交易设置",
-      "viewType": "journalit-setups-view",
-      "icon": "flask-conical",
-      "openedAt": "2026-09-19T06:59:49.471Z"
-    },
-    {
-      "type": "view",
-      "title": "Account: ICT",
-      "viewType": "journalit-account-page-view",
-      "icon": "user",
-      "openedAt": "2026-09-19T06:49:30.409Z"
-    },
-    {
-      "type": "view",
-      "title": "布局编辑器",
-      "viewType": "journalit-template-builder-view",
-      "icon": "lucide-blocks",
-      "openedAt": "2026-09-19T06:31:15.961Z"
-    },
-    {
-      "type": "file",
-      "title": "DRC-180926",
-      "path": "!Journalit/2026/Q3/09/W38/DRC-180926.md",
-      "icon": "file-text",
-      "openedAt": "2026-09-19T06:29:01.671Z"
     }
   ],
   "imageGallery": {
