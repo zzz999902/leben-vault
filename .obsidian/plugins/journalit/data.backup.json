@@ -442,7 +442,17 @@
     "tagColors": {}
   },
   "customTradeFields": {
-    "fields": []
+    "fields": [
+      {
+        "id": "custom_field_1791099566876_oizfl",
+        "label": "情绪",
+        "fieldKey": "custom_field",
+        "type": "text",
+        "validation": {},
+        "options": [],
+        "order": 1791099566876
+      }
+    ]
   },
   "customFieldOptions": {},
   "customReviewFields": {

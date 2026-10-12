@@ -2,6 +2,20 @@
   "recentItems": [
     {
       "type": "file",
+      "title": "学习笔记",
+      "path": "交易日记/学习笔记.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-11T12:24:31.653Z"
+    },
+    {
+      "type": "file",
+      "title": "交易模型",
+      "path": "交易日记/交易模型.md",
+      "icon": "file-text",
+      "openedAt": "2026-10-11T05:07:57.926Z"
+    },
+    {
+      "type": "file",
       "title": "DRC-091026",
       "path": "!Journalit/2026/Q4/10/W41/DRC-091026.md",
       "icon": "file-text",
@@ -90,20 +104,6 @@
       "path": "!Journalit/2026/Q4/10/W41/DRC-081026.md",
       "icon": "file-text",
       "openedAt": "2026-10-09T13:16:26.355Z"
-    },
-    {
-      "type": "file",
-      "title": "交易模型",
-      "path": "交易日记/交易模型.md",
-      "icon": "file-text",
-      "openedAt": "2026-10-05T15:24:40.271Z"
-    },
-    {
-      "type": "file",
-      "title": "学习笔记",
-      "path": "交易日记/学习笔记.md",
-      "icon": "file-text",
-      "openedAt": "2026-10-05T15:24:39.803Z"
     },
     {
       "type": "file",
